@@ -14,5 +14,4 @@ I plan to keep this up to date with the latest
 and
 [jQuery 2.2](http://jquery.com/download/#jquery-2-x).
 
-I'm not sure if I'll plan to fork this repo, or just download
-the zip file and go from there.
+Mexpro is a fork of Jack's example horrible thinger.
