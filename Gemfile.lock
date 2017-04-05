@@ -73,7 +73,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  jekyll (~> 3.4.3)
   jekyll-assets
   jekyll-coffeescript
   jekyll-sitemap
